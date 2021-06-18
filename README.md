@@ -1,3 +1,3 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=MugiOka&show_icons=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mugioka&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MugiOka&card_width=495)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugioka&card_width=495)
